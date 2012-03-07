@@ -5,7 +5,7 @@
 #-------------------------------------------------
 
 QT       += core gui
-
+QT += network
 TARGET = server
 TEMPLATE = app
 
